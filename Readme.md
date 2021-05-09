@@ -1,6 +1,7 @@
 # Steps
 
-
+# Do a git clone https://github.com/venkatkasaraneni/docker_springboot_app.git to your local 
+ 
 - Create a sample spring boot project 
 - https://start.spring.io/
 - Add dockerfile to the project
